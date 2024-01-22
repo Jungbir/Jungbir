@@ -1,6 +1,6 @@
 ### Hey, I'm Jungbir Singh Hanspal 
 
-I'm a 18-year-old developer based in India, and I'm passionate about learing new things. 
+I'm a 18-year-old developer based in India, and I'm passionate about learning new things. 
 
 - Check out my [website](https://jungbir.github.io/) to learn more about me.
 - Follow on [Instagram](https://www.instagram.com/nightash_876/), [LinkedIn](https://in.linkedin.com/in/jungbir-singh-hanspal).
@@ -10,9 +10,9 @@ I'm a 18-year-old developer based in India, and I'm passionate about learing new
 
 **Frontend Development:** `HTML/CSS` `JavaScript/TypeScript` `React` `Next.js` `Tailwind/BootStrap`
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Version Control:** `Git`
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` `Python` `MongoDB`
+**Backend Development:** `Nest.js` `Python` `MongoDB`
 
  
 ## Fun Facts 
