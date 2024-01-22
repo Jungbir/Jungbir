@@ -14,9 +14,6 @@ I'm a 18-year-old developer based in Germany, and I'm passionate about learing n
 
 **Backend Development:** `Nest.js` `GraphQL` `Firebase` `Python` `MongoDB`
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
-
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
  
 ## Fun Facts 
 
