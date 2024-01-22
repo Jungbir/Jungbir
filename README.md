@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hey, I'm Jungbir Singh Hanspal 
 
-<!--
-**Jungbir/Jungbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 18-year-old developer based in Germany, and I'm passionate about learing new things. 
 
-Here are some ideas to get you started:
+- Check out my [website](https://jungbir.github.io/) to learn more about me.
+- Follow on [Instagram](https://www.instagram.com/nightash_876/), [LinkedIn](https://in.linkedin.com/in/jungbir-singh-hanspal).
+- Reach out to me at **jungbirhanspal@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SkillSet
+
+**Frontend Development:** `HTML/CSS` `JavaScript/TypeScript` `React` `Next.js` `Tailwind/BootStrap`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Backend Development:** `Nest.js` `GraphQL` `Firebase` `Python` `MongoDB`
+
+**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+
+**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
+ 
+## Fun Facts 
+
+- My favorite anime characters are Obito Uchiha and Yuta Okkotsu .
+- As a kid, I wanted to be a Robtics Engineer.
+- I favourite game to play is Minecraft with a little bit of FPS.
+
+## Contact
+
+ For a quick response, DM me on [Instagram](https://www.instagram.com/nightash_876/) or [LinkedIn](https://in.linkedin.com/in/jungbir-singh-hanspal). 
+ 
