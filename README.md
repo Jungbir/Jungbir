@@ -12,14 +12,14 @@ I'm a 18-year-old developer based in India, and I'm passionate about learning ne
  
 **Version Control:** `Git`
 
-**Backend Development:** `Nest.js` `Python` `MongoDB`
+**Backend Development:** `Nest.js` `Python` `MongoDB` `Node.js`
 
  
 ## Fun Facts 
 
 - My favorite anime characters are Obito Uchiha and Yuta Okkotsu .
-- As a kid, I wanted to be a Robtics Engineer.
-- I favourite game to play is Minecraft with a little bit of FPS.
+- As a kid, I wanted to be a Robotics Engineer.
+- My favourite game to play is Minecraft with a little bit of FPS.
 
 ## Contact
 
