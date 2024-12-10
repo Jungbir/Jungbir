@@ -19,7 +19,7 @@ I'm a 18-year-old developer based in India, and I'm passionate about learning ne
 
 - My favorite anime characters are Obito Uchiha and Yuta Okkotsu .
 - As a kid, I wanted to be a Robotics Engineer.
-- My favourite game to play is Minecraft with a little bit of FPS.
+- My favourite game to play is Minecraft and a bit of Shooter.
 
 ## Contact
 
