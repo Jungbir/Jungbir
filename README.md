@@ -12,6 +12,7 @@ I'm a 19-year-old developer based in India, and I'm really passionate about lear
 **Version Control:** `Git`
 
 **Backend Development:** `Nest.js` `Python` `MongoDB` `Node.js`
+
 **Others:**`Cyber Security`
 
 ## Contact
