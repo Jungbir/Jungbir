@@ -7,13 +7,15 @@ I'm a 19-year-old developer based in India, and I'm really passionate about lear
 
 ## SkillSet
 
-**Frontend Development:** `HTML/CSS` `JavaScript/TypeScript` `React` `Next.js` `Tailwind/BootStrap`
- 
-**Version Control:** `Git`
+**Frontend Development:** `HTML/CSS` `JavaScript` `React` `Next.js` `Tailwind`
 
-**Backend Development:** `Nest.js` `Python` `MongoDB` `Node.js`
+**Backend Development:** `Express` `MongoDB` `Node.js`
 
-**Others:**`Cyber Security`
+**Tools:** `Git` `Github` `VS Code`
+
+**Languages:** `Java` `Python` `C` `C++`
+
+**FrameWorks:** `Next.js` `Express`
 
 ## Contact
 
