@@ -1,19 +1,46 @@
-### Hey, I'm Jungbir Singh Hanspal 
+# JUNGBIR
 
-I'm a 19-year-old developer based in India, and I'm really passionate about learning new things. 
+`developer / builder / learner`
 
-- Check out my [website](https://jungbir.github.io/) to learn more about me.
-- Reach out to me at **jungbirhanspal@gmail.com**
+---
 
-## SkillSet
+### ABOUT
 
-**Frontend Development:** `HTML/CSS` `JavaScript` `React` `Next.js` `Tailwind`
+I build digital products, experiment with new technologies,
+and enjoy turning ideas into simple, functional experiences.
 
-**Backend Development:** `Express` `MongoDB` `Node.js`
+Currently exploring the intersection of
 
-**Tools:** `Git` `Github` `VS Code`
+`software` · `design` · `systems` · `AI`
 
-**Languages:** `Java` `Python` `C` `C++`
+---
 
-**FrameWorks:** `Next.js` `Express`
+### STACK
 
+| FRONTEND | BACKEND | LANGUAGES | TOOLS |
+|---|---|---|---|
+| React | Node.js | JavaScript | Git |
+| Next.js | Express | TypeScript | GitHub |
+| Tailwind | MongoDB | Python | VS Code |
+| HTML / CSS | REST APIs | Java / C++ | Linux |
+
+---
+
+### SELECTED WORK
+
+**SmartAttend**  
+Attendance management system built for a smarter, more efficient workflow.
+
+`JavaScript` · `Web`· `React`· `MongoDB` 
+
+→ [github.com/jungbir/SmartAttend-SIH25](https://github.com/jungbir/SmartAttend-SIH25)
+
+---
+
+### NOW
+
+```text
+building      →  web experiences + embedded systems
+learning      →  new technologies
+exploring     →  AI + systems
+improving     →  every iteration
