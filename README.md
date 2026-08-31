@@ -17,7 +17,3 @@ I'm a 19-year-old developer based in India, and I'm really passionate about lear
 
 **FrameWorks:** `Next.js` `Express`
 
-## Contact
-
- For a quick response, DM me on [Instagram](https://www.instagram.com/nightash_876/) or [LinkedIn](https://in.linkedin.com/in/jungbir-singh-hanspal). 
- 
