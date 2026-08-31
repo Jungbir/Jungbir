@@ -1,26 +1,41 @@
-# Jungbir Singh Hanspal
+Jungbir Singh Hanspal
 
-Developer who enjoys building things, learning new technologies, and
-turning ideas into useful software.
+Hey, I'm Jungbir Singh Hanspal.
 
-[Portfolio](https://jungbir.github.io) · [GitHub](https://github.com/Jungbir)
+I’m a student, programmer, and artist — essentially a polymath driven by curiosity.
 
----
+I’m a builder. I make whatever catches my interest — from software and AI to embedded systems, hardware, and everything in between.
 
-## What I Use
+I’m fascinated by how things work, especially systems. I’ll go as deep or as broad as a problem demands, crossing disciplines whenever necessary.
 
-`Technology` · `Technology` · `Technology` · `Technology`
+I don’t have a single field. I have things I want to build, questions I want to understand, and an endless list of things I’m curious about.
 
-`Technology` · `Technology` · `Technology`
+Skills
 
----
+Languages
 
-## Consistency
+Rust · C · C++ · TypeScript · JavaScript · Python · Java
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Jungbir&bg_color=0d1117&color=a78fba&line=a78fba&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution graph"
-  />
-</p>
+Frontend & Backend
+
+React · Node.js · Express · Full Stack
+
+Systems & Infrastructure
+
+Linux · Docker · Nginx · Bun · Redis · Socket · JWT
+
+Databases
+
+PostgreSQL · MongoDB
+
+Embedded & Hardware
+
+Embedded Systems
+
+Art & 3D
+
+Krita · Blender
+
+Tools & Platforms
+
+Git · Vercel
