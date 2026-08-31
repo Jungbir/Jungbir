@@ -11,22 +11,22 @@ I don’t have a single field. I have things I want to build, questions I want t
 ## Skills
 
 **Languages**  
-Rust · C · C++ · TypeScript · JavaScript · Python · Java
+`Rust` ·` C `· `C++ `·` TypeScript` · `JavaScript`· `Python` ·` Java`
 
-**Frontend & Backend**  
-React · Node.js · Express · Full Stack
+**FullStack**  
+`React `· `Node.js `· `Express`
 
 **Systems & Infrastructure**  
-Linux · Docker · Nginx · Bun · Redis · Socket · JWT
+`Linux `· `Docker `· `Nginx` · `Bun` · `Redis `· `Socket` · `JWT`
 
 **Databases**  
-PostgreSQL · MongoDB
+`PostgreSQL` · `MongoDB`
 
 **Embedded & Hardware**  
-Embedded Systems
+`Embedded Systems`
 
 **Art & 3D**  
-Krita · Blender
+`Krita` · `Blender`
 
 **Tools & Platforms**  
-Git · Vercel
+`Git` · `Vercel`
